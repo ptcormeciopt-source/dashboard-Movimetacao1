@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Carregamento e Expedição",
+  "description": "Painel de controle logístico e monitoramento da view_carregamento_expedicao do Supabase com métricas de paletes, pacotes e unidades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
